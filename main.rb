@@ -1,14 +1,13 @@
 # frozen_string_literal: true
 
+# Test class
 class NameClass
   attr_accessor :param_name
 
   # Method to do ...
-  # @param param_name [String]
+  # @param _param_name [String]
   # @return [self]
-  def initialize(param_name)
-
-  end
+  def initialize(_param_name); end
 
   # Method to do ...
   # @param param_name [String]
@@ -17,20 +16,3 @@ class NameClass
     # do something awesome!
   end
 end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

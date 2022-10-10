@@ -49,6 +49,8 @@ Example:
 
 
 ### References:
+[RubyMine](https://www.jetbrains.com/ruby/)
+
 [RubyMine Macros](https://www.jetbrains.com/help/ruby/using-macros-in-the-editor.html)
 
 [RubyMine Configuration directory](https://www.jetbrains.com/help/ruby/directories-used-by-the-ide-to-store-settings-caches-plugins-and-logs.html#config-directory)

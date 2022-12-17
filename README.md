@@ -1,5 +1,5 @@
 # ruby_macros
-Project to setup macros using RubyMine. 
+Project to set up macros using RubyMine. 
 
 
 ### Create RubyMine macros
@@ -17,13 +17,13 @@ Project to setup macros using RubyMine.
 
 1. Go to RubyMine -> Preferences -> Keymap -> Macros.
 2. Right-Click -> Add Keyboard Shortcut.
-3. Type the shoutcut that you want to use. 
+3. Type the shortcut that you want to use. 
 4. Click to Apply and OK.
    ![add shourtcut](img/add_shourtcut.png)
 
 
 ### Configuration directory
-In order import or export macros to your RubyMine settings configuration:
+In order to import or export macros to your RubyMine settings configuration:
 
 #### MacOS
 
@@ -35,7 +35,7 @@ Example:
 
 `~/Library/Application Support/JetBrains/RubyMine2022.3`
 
-Open a terminal go to `RubyMine2022.3/options` folder: 
+Open a terminal, go to `RubyMine2022.3/options` folder: 
 ![terminal mac](img/terminal_mac.png)
 
 #### Linux
